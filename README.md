@@ -4,7 +4,7 @@
 # BitBot - Slack Chatbot Project
 Slack Chatbot Project is used to answer Slack users with a FAQ.
 
-# Requirements
+## Requirements
 - Docker
 - Ruby
 - Sinatra
