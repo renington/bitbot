@@ -10,6 +10,8 @@ Slack Chatbot Project is used to answer Slack users with a FAQ.
 - Sinatra
 - [api.ai](api.ai)
 - Postgresql
+- rspec
+- factory_girl
 
 ## Getting Started
 ```
